@@ -1,0 +1,25 @@
+baseURL: https://example.com
+languageCode: en-us
+title: Vasilije Rakcevic
+theme: yourfolio
+disableKinds: [RSS, taxonomy, taxonomyTerm]
+googleAnalytics: UA-XXXXX-Y
+
+# Menu items
+menu:
+  main:
+  - name: Home
+    weight: 1
+    url: /
+  - name: About
+    weight: 2
+    url: /about
+  # - name: Contact
+  #   weight: 2
+  #   url: /contact
+
+# Custom params
+params:
+  env: development
+  logoImage: img/v_logo.jpg
+  logoImageAlt: Vasilije Rakcevic logo
