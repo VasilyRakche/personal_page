@@ -23,7 +23,7 @@ text_groups:
   # - name: Disciplines
   #   description: <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
   - name: Projects
-    description: I tried to present them on the <a class="accent-text bold-text" href="http://localhost:1313/">Home</a> page
+    description: I tried to present my projects on the <a class="accent-text bold-text" href="https://vasilyrakche.github.io">Home</a> page
     class: line
   - name: Links
     description: <a class="accent-text bold-text" href="https://www.linkedin.com/in/vasilije-rakcevic">LinkedIn</a>

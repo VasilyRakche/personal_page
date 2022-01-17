@@ -22,81 +22,29 @@ text_groups:
   - name: Vasilije Rakcevic
     description: Let the deeds speak for you
 projects:
-  - title: Unique dynamic leg design Teststand
+  - title: Unique dynamic leg design
     type: Quadrupped robot
-    link: https://github.com/Legged-robot
+    link: https://gist.github.com/VasilyRakche/15e864175e0da656fac045112fe4d07c
     image:
-      url: works/leg_teststand.jpg
+      url: works/Leg_Test-stand_CAD.png
       alt: Design of the Leg Teststand
       media: "(max-width: 46.25em)"
       params:
-      - options: 400x600
-      - options: 848x443
-      - options: 565x420
-      - options: 360x318 Left
-  - title: Analytik
-    type: UI/UX
-    link: https://unsplash.com/photos/yeB9jDmHm6M
+      - options: 1170x590 Left
+      - options: 848x443 Top
+      - options: 565x420 Left
+      - options: 360x318 Center
+  - title: Interesting previous projects
+    type: Past Projects
+    link: https://gist.github.com/VasilyRakche/27d6c0698b4152f8859a3c963c6e02a1
     class: short-col
     image:
-      url: works/analytik.jpg
-      alt: The Analytic web design theme
+      url: works/Balancing-bot.png
+      alt: Past projects
       media: "(max-width: 46.25em)"
       params:
       - options: 364x590 Top
       - options: 848x443 Top
       - options: 565x420
       - options: 360x318
-  - title: Friends
-    type: Product Development
-    link: https://unsplash.com/photos/ir5lIkVFqC4
-    class: wide-col
-    image:
-      url: works/friends.jpg
-      alt: The Friends theme
-      media: "(max-width: 46.25em)"
-      params:
-      - options: 746x590 Left
-      - options: 848x443 Top
-      - options: 565x420 Left
-      - options: 360x318 Center
-  - title: Food
-    type: web design
-    link: https://unsplash.com/photos/JVSgcV8_vb4
-    class: wide-col
-    image:
-      url: works/food.jpg
-      alt: The Food website for recipes
-      media: "(max-width: 46.25em)"
-      params:
-      - options: 746x590 Center
-      - options: 848x443 Center
-      - options: 565x420 Center
-      - options: 360x318 Center
-  - title: StatAaapp
-    type: UI/UX
-    link: https://unsplash.com/photos/nJX74kn1yn4
-    class: short-col
-    image:
-      url: works/statapp.jpg
-      alt: The application for statistic
-      media: "(max-width: 46.25em)"
-      params:
-      - options: 364x590 Left
-      - options: 848x443
-      - options: 565x420 Center
-      - options: 360x318 Center
-  - title: StatApp
-    type: UI/UX
-    link: https://unsplash.com/photos/nJX74kn1yn4
-    class: short-col
-    image:
-      url: works/statapp.jpg
-      alt: The application for statistic
-      media: "(max-width: 46.25em)"
-      params:
-      - options: 364x590 Left
-      - options: 848x443
-      - options: 2000x420 Center
-      - options: 360x318 Center
 ---
