@@ -22,9 +22,9 @@ text_groups:
   - name: Vasilije Rakcevic
     description: Let the deeds speak for you
 projects:
-  - title: Unique dynamic leg design
-    type: Quadrupped robot
-    link: https://gist.github.com/VasilyRakche/15e864175e0da656fac045112fe4d07c
+  - title: Quadruped Robot Leg Test-Stand
+    type: Compliant Leg Locomotion for Dynamic Quadruped Robotics 
+    link: https://legged-robot.github.io/ 
     image:
       url: works/Leg_Test-stand_CAD.png
       alt: Design of the Leg Teststand
