@@ -5,7 +5,7 @@ draft: false
 description: AAA.
 
 header:
-  description: <span class="accent-text">Roboticist </span> by heart. 
+  description: <span class="accent-text">Roboticist </span> 
   image:
     url: Inspiration.png
     alt: Scatches for new robotic leg design
