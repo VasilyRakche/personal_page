@@ -22,7 +22,7 @@ text_groups:
   - name: Vasilije Rakcevic
     description: Let the deeds speak for you
 projects:
-  - title: Quadruped Robot Leg Test-Stand
+  - title: Control & design of quadruped robot leg
     type: Compliant Leg Locomotion for Dynamic Quadruped Robotics 
     link: https://legged-robot.github.io/ 
     image:
