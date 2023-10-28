@@ -18,7 +18,7 @@ text_groups:
   - name: About
     description:  <p style="color:#4d5656 ;"><b>Vasilije Rakcevic</b></p>
       <br>
-      <p style="color:#5f6a6a  ;">Roboticist. Enthusiast about software, mechanics, and electronics.</p>
+      <p style="color:#5f6a6a  ;">Roboticist. Enthusiast about software, mechanics, and electronics. <br><br> Currently doing PhD at TUM.</p>
       <br> 
       <p style="color:#2c3e50 ;"><b>Experiences:</b></p><br>
       <p style="color:#566573 ;">
@@ -54,6 +54,9 @@ text_groups:
   #   description: <p>Lorem ipsum.</p><p>Officia, aliquam?</p><p>Dicta, quia?</p><p>Aliquid, excepturi!</p>
   - name: Projects
     description: Check my <a class="accent-text bold-text" href="https://vasilyrakche.github.io">Home</a> page
+    class: line
+  - name: Open positions
+    description: Check on <a class="accent-text bold-text" href="https://vasilyrakche.github.io/lab_mirmi/">Lab@MIRMI</a> page
     class: line
   - name: Links
     description: <a class="accent-text bold-text" href="https://www.linkedin.com/in/vasilije-rakcevic">LinkedIn</a>

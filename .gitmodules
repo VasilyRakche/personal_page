@@ -3,5 +3,5 @@
 	url = https://github.com/serg/yourfolio.git
 [submodule "public"]
 	path = public
-	url = https://github.com/VasilyRakche/vasilyrakche.github.io
+	url = git@github.com:VasilyRakche/vasilyrakche.github.io.git
 	branch = devel
