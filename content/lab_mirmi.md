@@ -34,6 +34,30 @@ projects:
       - options: 848x443 Top
       - options: 565x420 Left
       - options: 360x318 Center
+  - title: Apply for Internship | Embedded software features development for custom BLDC motor driver
+    type: Electronics, C, Matlab skills
+    link: https://classic.fsmb.de/fsmb/service/basama-hiwi/entry/22668.iframe
+    image:
+      url: openpositions/embedded_pcb_external.png
+      alt: Embedded software features development for custom BLDC motor driver
+      media: "(max-width: 46.25em)"
+      params:
+      - options: 650x550 Top
+      - options: 600x443 Top
+      - options: 200x420 Left
+      - options: 200x318 Center
+  - title: Apply for Internship | BLDC actuator back-drivability hackingBLDC motor driver
+    type: Electronics, C, Matlab skills
+    link: https://classic.fsmb.de/fsmb/service/basama-hiwi/entry/22667.iframe
+    image:
+      url: openpositions/bldc_testrig_external.png
+      alt: BLDC actuator back-drivability hacking
+      media: "(max-width: 46.25em)"
+      params:
+      - options: 450x550 Top
+      - options: 600x443 Top
+      - options: 200x420 Left
+      - options: 200x318 Center
   - title: MIRMI TUM
     type: RSI student open positions
     link: https://www.ce.cit.tum.de/en/rsi/career-and-jobs/student-projects-and-jobs/
